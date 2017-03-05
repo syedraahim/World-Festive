@@ -1,0 +1,69 @@
+<html>
+<head>
+
+          <title>WorldFestive.com - Festivals around the world!</title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+
+		<div id="header">
+		<img height="20%" width="10%" src="images/logo.jpg"
+		<ul class="link">
+			 <li><a href="#about">Contact<br>Us</a></li>
+			 <li><a href="home.html">Home<br><br></a></li>
+		</ul>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<font size="2px">
+		<ul class="link">
+			
+		 
+		  <li><a href="Europe.html">Europe<br><br></a></li>
+		  <li><a href="Asia.html">Asia<br><br></a></li>
+		  <li><a href="SouthAmerica.html">South<br>America</a></li>
+		  <li><a href="Africa.html">Africa<br><br></a></li>
+		  <li><a href="Australia.html">Australia<br><br></a></li>
+
+		</ul>
+		
+		</font>
+		
+		</div>
+		<br>
+		<br>
+		<br>
+		<font size="3px">
+		<br>
+		<br>
+		<br>
+		<br>
+		</font>
+			<font size="4px">
+			<h1 >Contact Us</h1>
+			<p>You can reach out to us:<br>
+Phone: +92336-3200-641 <br>
+Email: uzzy28@gmail.com <br>
+Address: DG-78, Off Khayaban-e-Tufail, Ph-VII (Ext.),DHA, Karachi-75500 <br>
+
+</p>
+	
+			
+			
+		</div>
+		<div id="footer">
+			<font>This website is a project of student's from DHA Suffa University, if you would like to inquire us regarding this domain or simply want to contribute to our website then you may visit the <a href="Contact.html">Contact Us</a></font><br>
+			<font>Phone: +92336-3200-641 </font><br>
+			<font>Address: DG-78, Off Khayaban-e-Tufail, Ph-VII (Ext.),DHA, Karachi-75500 </font>
+		</div>
+		
+
+	</body>
+</html>
+
